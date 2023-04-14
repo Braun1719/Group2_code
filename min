@@ -1,0 +1,10 @@
+package com.mycompany.floatnumbers;
+public class FloatNumbers {
+public static float min(float x, float y){
+float min = Math.min(x,y);
+    return min;
+    }
+    public static void main(String[] args) {
+System.out.println(min(8.5F,6.5F));
+    }
+}

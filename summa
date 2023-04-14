@@ -1,0 +1,5 @@
+public class FloatNumbers {
+public static float summa(float x, float y, float c, float a, float b){
+    float result = x + y + c + a + b;
+    return result;
+} 
